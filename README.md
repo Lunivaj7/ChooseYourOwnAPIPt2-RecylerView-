@@ -40,6 +40,7 @@ My chosen API for this project is **https://pokeapi.co/docs/v2#pokemon (Pokemon 
 
 Here's a video / GIF that demos all of the app's implemented features:
 
+![](AND101Project5.gif)
 
 GIF created with **Screen to Gif**
 
