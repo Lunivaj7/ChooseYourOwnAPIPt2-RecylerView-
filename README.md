@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
 Submitted by: **Luniva Joshi**
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**PokeImage** is an android app that **displays random Pokemons when the user clicks a button. Every time that button is clicked, a new pokemon, along with its name and type, appears on the screen**
+**Pokemon Recyle** is an android app that **pulls from a Pokemon API and displays 20 Pokemons along with their name and type!**
 
-If I had to describe this project in three (3) emojis, they would be: **🎮🔍🧬**
+If I had to describe this project in three (3) emojis, they would be: **♻️🧬🔍**
 
 ## Application Features
 
@@ -19,28 +19,24 @@ If I had to describe this project in three (3) emojis, they would be: **🎮🔍
 The following REQUIRED features are completed:
 
 - [x] Make an API call to an API of your choice using AsyncHTTPClient
-- [x] Display at least three (3) pieces of data for each API entry retrieved
-- [x] A working Button requests a new API entry and updates the data displayed
+- [x] Implement a RecyclerView to display a list of entries from the API
+- [x] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is **https://pokeapi.co/docs/v2#pokemon (Pokemon API)**.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](AND101Project5.gif)
+![](AND101Project6.gif)
 
 GIF created with **Screen to Gif**
 
@@ -55,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright **2025** **Luniva JOshi**
+Copyright **2025** **Luniva Joshi**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
