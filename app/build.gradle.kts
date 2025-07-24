@@ -39,6 +39,7 @@ dependencies {
     implementation(libs.asynchttpclient)
     implementation(libs.glide)
     implementation(libs.androidx.material3.android)
+    implementation(libs.androidx.recyclerview)
     annotationProcessor(libs.compiler)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
