@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](AND101Project6.gif)
+![](AND101CapstoneWireframes.png)
 
 GIF created with **Screen to Gif**
 
